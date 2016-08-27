@@ -1,0 +1,25 @@
+{
+  "name": "memory-grid-game",
+  "version": "1.0.0",
+  "description": "Memory game using React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memory-game",
+    "react"
+  ],
+  "author": "ECF",
+  "license": "ISC",
+  "devDependencies": {
+    "jspm": "^0.16.45"
+  },
+  "jspm": {
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
