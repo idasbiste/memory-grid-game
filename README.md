@@ -1,2 +1,2 @@
 # memory-grid-game
-Memory game using ReactJS
+Memory game using ReactJS - approach by ReactJS Succintly
