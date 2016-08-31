@@ -4,7 +4,7 @@
   "description": "Memory game using React",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "memory-game",
@@ -13,6 +13,7 @@
   "author": "ECF",
   "license": "ISC",
   "devDependencies": {
+    "jest-cli": "^14.1.0",
     "jspm": "^0.16.45"
   },
   "jspm": {
